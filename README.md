@@ -57,3 +57,5 @@ ethyl-chloride-digital-twin/
 └── assets/
     ├── pfd_diagram.png                # Process Flow Diagram
     └── 3d_plant_layout.png            # Optimized 3D Plant Design
+## 👥 Acknowledgments
+This project is an evolution of an undergraduate capstone design project originally developed in collaboration with **[ AFNAN ALSHABIBI, SABA ALMUKHAINI, BAYAN ALABRI, RADHWAN ALSHAQSI]** under the academic supervision of **[Dr.Pro. AYHAM ALRAHAWI]** at **[German University of Technology in Oman]**. The subsequent AI digital twin and optimization layers were independently designed and integrated to transition the work into an Industry 4.0 framework.
